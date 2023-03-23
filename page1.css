@@ -28,7 +28,11 @@ div.test{
 }
 h1{
     text-align: center;
-    font-size: 100px;
+    font-size: 75px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
 }
 h3{
     text-align: justify;
@@ -44,7 +48,10 @@ div.c{
 div.p{
     background-color: grey;
     font-size: 25px;
-    width: 200px;
+    width: 300px;
+}
+div.pp{
+    font-size: 25px;
     
 }
 div.cont1{
@@ -54,4 +61,12 @@ div.cont1{
 div.cont2{
     width: 1100px;
     height: 1250px;
+}
+div.inf{
+    display: flex;
+    border-radius: 20px;
+}
+div.v{
+    width: 370px;
+    height: 200px;
 }
